@@ -1,0 +1,3 @@
+Các em search google dữ liệu AdventureWorksLT2012.bak, tải file dữ liệu, restore và làm truy vấn trên file dữ liệu này nha!
+Chạy SQL có câu truy vấn và kết quả rồi thì chụp hình câu truy vấn và kết quả lại, paste hình trả lời cho mỗi câu hỏi Q.1, Q.2, Q.3, Q.4, Q.5, Q.6, làm report trên word các em nhé! 
+File dung lượng lớn cô không up file dữ liệu lên được! Cám ơn các em!  Chúc các em làm bài tốt!

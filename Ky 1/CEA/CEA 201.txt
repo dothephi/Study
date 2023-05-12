@@ -1,0 +1,2 @@
+Tổ chức và kiến trúc máy tính (30 tiết - 15 lý thuyết và 15 thực hành)
+- Phần cứng

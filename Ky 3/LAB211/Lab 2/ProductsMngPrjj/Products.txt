@@ -1,0 +1,5 @@
+S121,Yamaha Exicter,10000.0,400,Available
+S011,Suzuki Raider,5000.0,7,Not Available
+S005,Honda Winner,7500.0,900,Available
+S006,Honda Airblade,9000.0,56,Available
+S001,S001,4000.0,50,Y

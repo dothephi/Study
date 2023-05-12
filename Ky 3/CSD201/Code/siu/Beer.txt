@@ -1,0 +1,4 @@
+B01,Beer 1,Tay Ninh,20000
+B02,Beer 2,Tay Tang,25200
+B03,Beer 3,Tay Du Ky,22000
+B04,Beer 4,Tay Ninh,24000

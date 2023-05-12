@@ -1,0 +1,4 @@
+B01,Sai gon,Tay Ninh,10000
+B02,Heniken,Tay Tang,20000
+B03,Tiger,Tay Du Ky,15000
+B04,Gray Tiger,Tay Ninh,17000

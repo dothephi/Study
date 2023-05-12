@@ -1,0 +1,5 @@
+Toán giải tích nâng cao
+- Vận tốc
+- Dự báo số liệu ===> hàm số
+- D(tập giá trị HS) - E(tập xác định HS)
+-

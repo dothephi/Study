@@ -1,0 +1,7 @@
++ tập xác định và tập giá trị
++ Tính giá trị Lim
++ Đạo hàm của hàm hợp
++ dy dx dt
++ Công thức newton
++ Tìm bao nhiêu đường tiệm cận ngang, đứng
++ Ma trận
